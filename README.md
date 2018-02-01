@@ -1,2 +1,3 @@
 # packet_replay
-Simple packet replay tool
+The tool is mantained in the Trend Micro repo.
+https://github.com/trendmicro/packet_replay
